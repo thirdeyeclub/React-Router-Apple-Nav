@@ -1,0 +1,6 @@
+rgb (51,51,51)
+
+font: "Myriad Set Pro, Helvetica", "Arial", sans-serif
+
+
+
